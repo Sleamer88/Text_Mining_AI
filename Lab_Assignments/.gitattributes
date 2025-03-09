@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Lab_Assignments/Lab_4/nerc_datasets/*.csv filter=lfs diff=lfs merge=lfs -text
