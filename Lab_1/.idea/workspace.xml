@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab4 assignment progress">
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/Lab4-Assignment-nerc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/Lab4-Assignment-nerc.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sleamer88&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sleamer88/Text_Mining_AI.git&quot;,
+    &quot;accountId&quot;: &quot;1b0384ec-677f-48a5-81a2-62653c93dec7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sqzeeE6BmETin4Cjxc0gQGnZ94" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.eli5_patch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/robertostoica/Desktop/University_files_(year_3)_extra/period_4/Text Mining for AI/Assignments/Lab_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_2/Google_News_files" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/__MACOSX/CONLL2003" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/__MACOSX" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eli5_patch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lab_Assignments/Lab_4/eli5_patch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eli5_patch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="" />
+      <created>1739197989820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739197989820</updated>
+      <workItem from="1739197990828" duration="35000" />
+      <workItem from="1739198033240" duration="6000" />
+      <workItem from="1739362442277" duration="18000" />
+      <workItem from="1739362929345" duration="23000" />
+      <workItem from="1739446358123" duration="1142000" />
+      <workItem from="1739447505313" duration="2574000" />
+      <workItem from="1739456021759" duration="5966000" />
+      <workItem from="1739470636324" duration="13099000" />
+      <workItem from="1739539540473" duration="25373000" />
+      <workItem from="1739810191746" duration="8040000" />
+      <workItem from="1739879070615" duration="272000" />
+      <workItem from="1739879346862" duration="3000" />
+      <workItem from="1739961747462" duration="371000" />
+      <workItem from="1739967616658" duration="31000" />
+      <workItem from="1740140846703" duration="6249000" />
+      <workItem from="1740235913797" duration="841000" />
+      <workItem from="1740482897728" duration="25061000" />
+      <workItem from="1740736013767" duration="41406000" />
+    </task>
+    <task id="LOCAL-00068" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740739796264</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1740739796264</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740740045220</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1740740045220</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740741210483</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1740741210483</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740741651324</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740741651324</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740742662644</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1740742662644</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Lab3 assignment changes, last optional question has error">
+      <option name="closed" value="true" />
+      <created>1740742976250</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1740742976250</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740743484755</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1740743484755</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740746619089</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1740746619089</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740746908594</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1740746908594</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740747426618</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1740747426618</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740749185059</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749185059</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740749372204</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749372204</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740749468524</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749468524</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740749555409</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749555409</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740749629097</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749629097</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740750085959</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750085959</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740750564169</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750564169</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740750654487</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750654487</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740750766186</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750766186</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Lab3 assignment changes">
+      <option name="closed" value="true" />
+      <created>1740750930096</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750930096</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Lab3 assignment finished">
+      <option name="closed" value="true" />
+      <created>1741003948453</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1741003948453</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Lab3 assignment finished">
+      <option name="closed" value="true" />
+      <created>1741004100535</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1741004100535</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Lab3 assignment finished">
+      <option name="closed" value="true" />
+      <created>1741005470547</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1741005470547</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Lab3 assignment finished">
+      <option name="closed" value="true" />
+      <created>1741102451219</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1741102451219</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Lab3 assignment finished">
+      <option name="closed" value="true" />
+      <created>1741102606648</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1741102606648</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741102732779</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1741102732779</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741102794496</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1741102794496</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741348509197</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1741348509197</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741526659001</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1741526659001</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741528748919</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1741528748919</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741529427588</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1741529427588</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741529529749</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1741529529749</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741533181844</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1741533181844</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741536065634</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1741536065634</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741536852236</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1741536852236</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741537044974</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1741537044974</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741537946958</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1741537946958</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741538283184</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1741538283184</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Lab4 assignment files">
+      <option name="closed" value="true" />
+      <created>1741538479100</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1741538479100</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741539119287</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1741539119287</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741539686593</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1741539686593</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741539962804</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1741539962804</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741542581169</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1741542581169</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741543121045</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1741543121045</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741543441494</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1741543441495</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741598110536</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1741598110536</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741600899433</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1741600899433</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741601053989</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1741601053989</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741601555898</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1741601555898</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Lab 1.2" />
+    <MESSAGE value="Exercise 1a from assignment" />
+    <MESSAGE value="Exercise 1b from assignment, not sure if it is fullt correct" />
+    <MESSAGE value="Exercise 1a and 1b finished, just have to ask if that's all they want from it" />
+    <MESSAGE value="Exercise 1c finished, just have to ask if that's all they want from it" />
+    <MESSAGE value="Exercise 1c half finished, just have to ask if that's all they want from it" />
+    <MESSAGE value="I think I got 1c" />
+    <MESSAGE value="Sentence splitting &amp; tokenization + pos tagging using spaCy" />
+    <MESSAGE value="constituency parsing using spaCy" />
+    <MESSAGE value="named entity recognition using spaCy" />
+    <MESSAGE value="Starting written questions" />
+    <MESSAGE value="." />
+    <MESSAGE value="Answering written part of assignment" />
+    <MESSAGE value="Finished written part of assignment" />
+    <MESSAGE value="Finished assignment" />
+    <MESSAGE value="Lab 2 files" />
+    <MESSAGE value="Lab 3 files" />
+    <MESSAGE value=".." />
+    <MESSAGE value="changes" />
+    <MESSAGE value="Lab3 changes" />
+    <MESSAGE value="Lab3 assignment changes, last optional question has error" />
+    <MESSAGE value="Lab3 assignment changes" />
+    <MESSAGE value="Lab3 assignment finished" />
+    <MESSAGE value="Lab4 assignment files" />
+    <MESSAGE value="Lab4 assignment progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4 assignment progress" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+  </component>
+</project>
