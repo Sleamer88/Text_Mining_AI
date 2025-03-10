@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_2/Google_News_files/GoogleNews-vectors-negative300.bin.gz" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner_v2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/Lab4-Assignment-nerc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/Lab4-Assignment-nerc.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,15 +122,7 @@
       <workItem from="1740140846703" duration="6249000" />
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
-      <workItem from="1740736013767" duration="45824000" />
-    </task>
-    <task id="LOCAL-00076" summary="Lab3 assignment changes">
-      <option name="closed" value="true" />
-      <created>1740746908594</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1740746908594</updated>
+      <workItem from="1740736013767" duration="47285000" />
     </task>
     <task id="LOCAL-00077" summary="Lab3 assignment changes">
       <option name="closed" value="true" />
@@ -514,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741617788589</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Lab4 assignment progress">
+      <option name="closed" value="true" />
+      <created>1741619409261</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1741619409262</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
