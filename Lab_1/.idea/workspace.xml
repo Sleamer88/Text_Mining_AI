@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab4 assignment progress">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab5 files (not graded)">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_2/Google_News_files/GoogleNews-vectors-negative300.bin.gz" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner_v2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +59,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_5" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_2/Google_News_files" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/__MACOSX/CONLL2003" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/__MACOSX" />
     </key>
   </component>
   <component name="RunManager">
@@ -120,23 +121,7 @@
       <workItem from="1740140846703" duration="6249000" />
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
-      <workItem from="1740736013767" duration="47999000" />
-    </task>
-    <task id="LOCAL-00080" summary="Lab3 assignment changes">
-      <option name="closed" value="true" />
-      <created>1740749468524</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1740749468524</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Lab3 assignment changes">
-      <option name="closed" value="true" />
-      <created>1740749555409</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1740749555409</updated>
+      <workItem from="1740736013767" duration="49504000" />
     </task>
     <task id="LOCAL-00082" summary="Lab3 assignment changes">
       <option name="closed" value="true" />
@@ -514,7 +499,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741627635242</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Lab5 files (not graded)">
+      <option name="closed" value="true" />
+      <created>1741627770808</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1741627770808</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Lab5 files (not graded)">
+      <option name="closed" value="true" />
+      <created>1741627797072</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1741627797072</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +523,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Lab 1.2" />
     <MESSAGE value="Exercise 1a from assignment" />
     <MESSAGE value="Exercise 1b from assignment, not sure if it is fullt correct" />
     <MESSAGE value="Exercise 1a and 1b finished, just have to ask if that's all they want from it" />
@@ -547,7 +547,8 @@
     <MESSAGE value="Lab3 assignment finished" />
     <MESSAGE value="Lab4 assignment files" />
     <MESSAGE value="Lab4 assignment progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab4 assignment progress" />
+    <MESSAGE value="Lab5 files (not graded)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5 files (not graded)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
