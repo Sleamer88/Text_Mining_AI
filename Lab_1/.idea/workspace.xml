@@ -9,11 +9,20 @@
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner_v2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.1-Topic-modelling-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.1-Topic-modelling-introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.2-Topic-modeling-gensim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.2-Topic-modeling-gensim.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -121,15 +130,7 @@
       <workItem from="1740140846703" duration="6249000" />
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
-      <workItem from="1740736013767" duration="53755000" />
-    </task>
-    <task id="LOCAL-00087" summary="Lab3 assignment changes">
-      <option name="closed" value="true" />
-      <created>1740750930096</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1740750930096</updated>
+      <workItem from="1740736013767" duration="58744000" />
     </task>
     <task id="LOCAL-00088" summary="Lab3 assignment finished">
       <option name="closed" value="true" />
@@ -515,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741956340974</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1741957756182</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1741957756182</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
