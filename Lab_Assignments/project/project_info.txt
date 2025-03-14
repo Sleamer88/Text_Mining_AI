@@ -1,0 +1,69 @@
+- Practical NLP skills acquired through the lab sessions.
+
+- 3 NLP techniques should be applied: NERC, sentiment analysis, and topic analysis.
+    Sentiment analysis and topic analysis should be done at the sentence level (see the test set provided).
+
+- Extract NEs and identify the topic and the sentiment of each sentence in the test set(s).
+    For one of the techniques, select a range of different systems (2 minimum) and analyse the result of the different systems.
+    Perform an error analysis to explain differences in performances that stand out, make suggestions how to improve the systems.
+    If you obtain perfect results, you still have to analyse them (e.g., do the systems make decisions based on the right reasons?).
+
+Presenting the results in a clear way is important (in tables/graphical representations).
+
+As part of the requirements to pass this course you will be asked to do an analysis of a test set.
+During the lab sessions, you will familiarise yourself with the tools to use.
+
+As part of the final assignment, you are also to describe your analyses in a poster that further details:
+
+- description of the tasks at hand;
+
+- description of the data used (train and test: data collection strategy, statistics of the datasets, source of data, references to the datasets used);
+
+- a description and motivation for your approach(es) (with links to the theory presented in the lectures and from relevant literature),
+    which includes description of preprocessing steps, parameters, features, and feature representations used;
+
+- discussion and analysis of the obtained results (both quantitative and qualitative analyses with examples of erroneous predictions);
+
+- conclusions and limitations of your approach and what could be done to improve it should you have more time;
+
+- links to your source code / your experiments  (zip file);
+
+- a short paragraph stating how you divided the work in your group (who did what).
+
+Your poster should be 1 page (pdf), including a short paragraph how you divided the work is compulsory.
+Without such a paragraph, the report is not graded!!!
+
+We expect that all students contribute to: 1) the coding, 2) the result and error analysis and 3) poster preparation.
+The degree to which this is the case impacts your grade.
+We therefore expect you to specify for each student the contribution to each of these three aspects of the work.
+
+student 1: 1) coding, 2) analysis, 3) poster preparation
+
+student 2: 1) coding, 2) analysis, 3) poster preparation
+
+student 3: 1) coding, 2) analysis, 3) poster preparation
+
+student 4: 1) coding, 2) analysis, 3) poster preparation
+
+Deliverables:
+
+- Poster
+
+- Source code (zip file) or links to your source code / your experiments
+(no need to submit the data used, providing links to the datasets + dataset description is sufficient)
+
+This assignment makes up 40% of your final grade.
+
+
+
+In short:
+
+- you learn to use the tools at the lab sessions, working in a small group
+
+- you hand in a poster on the basis of the work of your group.
+
+
+
+Please hand in your final assignment as a single PDF file.
+If you want to share your code/demo, please add a link to your PDF file.
+Please check that you covered all items to be included in your poster as described in the assignment.
