@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab6 files">
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_2/Google_News_files/GoogleNews-vectors-negative300.bin.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets/ner_v2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.1-Topic-modelling-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.1-Topic-modelling-introduction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.2-Topic-modeling-gensim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.2-Topic-modeling-gensim.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,15 +130,7 @@
       <workItem from="1740140846703" duration="6249000" />
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
-      <workItem from="1740736013767" duration="58744000" />
-    </task>
-    <task id="LOCAL-00088" summary="Lab3 assignment finished">
-      <option name="closed" value="true" />
-      <created>1741003948453</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1741003948453</updated>
+      <workItem from="1740736013767" duration="61165000" />
     </task>
     <task id="LOCAL-00089" summary="Lab3 assignment finished">
       <option name="closed" value="true" />
@@ -524,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741957756182</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1741983758234</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1741983758234</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
