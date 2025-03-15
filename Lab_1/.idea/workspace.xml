@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/paper_authors.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/papers.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.3-Topic-modeling-sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.3-Topic-modeling-sklearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.4-Topic-classification-BERT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.4-Topic-classification-BERT.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.eli5_patch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/robertostoica/Desktop/University_files_(year_3)_extra/period_4/Text Mining for AI/Assignments/Lab_1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.eli5_patch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/robertostoica/Desktop/University_files_(year_3)_extra/period_4/Text Mining for AI/Assignments/Lab_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6" />
@@ -132,14 +132,6 @@
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
-    </task>
-    <task id="LOCAL-00090" summary="Lab3 assignment finished">
-      <option name="closed" value="true" />
-      <created>1741005470547</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1741005470547</updated>
     </task>
     <task id="LOCAL-00091" summary="Lab3 assignment finished">
       <option name="closed" value="true" />
@@ -525,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741995355364</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742038550576</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1742038550576</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
