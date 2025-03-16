@@ -150,8 +150,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6/images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_5" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets" />
@@ -213,14 +213,6 @@
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
-    </task>
-    <task id="LOCAL-00093" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741102732779</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1741102732779</updated>
     </task>
     <task id="LOCAL-00094" summary="Lab4 assignment files">
       <option name="closed" value="true" />
@@ -606,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742040664371</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742052008918</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1742052008918</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
