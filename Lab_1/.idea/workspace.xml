@@ -5,94 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab6 files">
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/cache_dir/cached_dev_bert_256_4_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/cache_dir/cached_train_bert_256_4_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/best_model/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128-epoch-2/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-128/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-32/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64-epoch-1/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-64/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/model_args.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/optimizer.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/scheduler.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/checkpoint-96/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/eval_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/outputs/training_progress_scores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/authors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/database.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/paper_authors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/papers/papers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/runs/Mar15_12-45-23_Robertos-MBP/events.out.tfevents.1742039123.Robertos-MBP.32226.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6/Lab6-assignment-topic-classification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6/Lab6.4-Topic-classification-BERT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6-assignment-topic-classification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.4-Topic-classification-BERT.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,22 +55,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.eli5_patch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/robertostoica/Desktop/University_files_(year_3)_extra/period_4/Text Mining for AI/Assignments/Lab_1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.eli5_patch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/robertostoica/Desktop/University_files_(year_3)_extra/period_4/Text Mining for AI/Assignments/Lab_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project" />
@@ -213,22 +137,7 @@
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
-    </task>
-    <task id="LOCAL-00094" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741102794496</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1741102794496</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741348509197</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1741348509197</updated>
+      <workItem from="1742146285859" duration="379000" />
     </task>
     <task id="LOCAL-00096" summary="Lab4 assignment files">
       <option name="closed" value="true" />
@@ -606,7 +515,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742052008918</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742146302048</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1742146302048</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742146416836</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1742146416836</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
