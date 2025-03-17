@@ -6,16 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab6 files">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6/Lab6-assignment-topic-classification.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Group20_Lab6/Lab6.4-Topic-classification-BERT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6-assignment-topic-classification.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/Lab6.4-Topic-classification-BERT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,23 +135,7 @@
       <workItem from="1740235913797" duration="841000" />
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
-      <workItem from="1742146285859" duration="379000" />
-    </task>
-    <task id="LOCAL-00096" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741526659001</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1741526659001</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741528748919</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1741528748919</updated>
+      <workItem from="1742146285859" duration="3017000" />
     </task>
     <task id="LOCAL-00098" summary="Lab4 assignment files">
       <option name="closed" value="true" />
@@ -531,7 +513,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742146416836</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742146733999</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1742146733999</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742146753240</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1742146753240</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
