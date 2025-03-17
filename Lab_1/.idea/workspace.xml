@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,15 +133,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="513000" />
-    </task>
-    <task id="LOCAL-00101" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741536065634</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1741536065634</updated>
+      <workItem from="1742219910885" duration="897000" />
     </task>
     <task id="LOCAL-00102" summary="Lab4 assignment files">
       <option name="closed" value="true" />
@@ -528,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742220151298</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="Lab6 files">
+      <option name="closed" value="true" />
+      <created>1742220792476</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1742220792476</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
