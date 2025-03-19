@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Lab6 files">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="project files">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification_data/big_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +74,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_6/images" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_5" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/Lab_4/nerc_datasets" />
     </key>
   </component>
   <component name="RunManager">
@@ -133,23 +138,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="897000" />
-    </task>
-    <task id="LOCAL-00102" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741536852236</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1741536852236</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Lab4 assignment files">
-      <option name="closed" value="true" />
-      <created>1741537044974</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1741537044974</updated>
+      <workItem from="1742219910885" duration="3560000" />
     </task>
     <task id="LOCAL-00104" summary="Lab4 assignment files">
       <option name="closed" value="true" />
@@ -527,7 +516,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742220792476</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="project files">
+      <option name="closed" value="true" />
+      <created>1742220828584</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1742220828584</updated>
+    </task>
+    <task id="LOCAL-00152" summary="project files">
+      <option name="closed" value="true" />
+      <created>1742220895069</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1742220895069</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +540,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Exercise 1b from assignment, not sure if it is fullt correct" />
     <MESSAGE value="Exercise 1a and 1b finished, just have to ask if that's all they want from it" />
     <MESSAGE value="Exercise 1c finished, just have to ask if that's all they want from it" />
     <MESSAGE value="Exercise 1c half finished, just have to ask if that's all they want from it" />
@@ -560,7 +564,8 @@
     <MESSAGE value="Lab4 assignment progress" />
     <MESSAGE value="Lab5 files (not graded)" />
     <MESSAGE value="Lab6 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab6 files" />
+    <MESSAGE value="project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="project files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
