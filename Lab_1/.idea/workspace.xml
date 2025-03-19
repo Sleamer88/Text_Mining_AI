@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification_data/big_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,31 +137,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="4864000" />
-    </task>
-    <task id="LOCAL-00107" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741539119287</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1741539119287</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741539686593</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1741539686593</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741539962804</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1741539962804</updated>
+      <workItem from="1742219910885" duration="4981000" />
     </task>
     <task id="LOCAL-00110" summary="Lab4 assignment progress">
       <option name="closed" value="true" />
@@ -532,7 +507,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742389729881</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="project files">
+      <option name="closed" value="true" />
+      <created>1742390051100</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1742390051100</updated>
+    </task>
+    <task id="LOCAL-00157" summary="project files">
+      <option name="closed" value="true" />
+      <created>1742390089405</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1742390089405</updated>
+    </task>
+    <task id="LOCAL-00158" summary="project files">
+      <option name="closed" value="true" />
+      <created>1742390134502</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1742390134502</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
