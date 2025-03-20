@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Chapter 8 files">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images/Chap8_4.5_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images/Figure_4.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images/Figure_4.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images/Figure_5.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_1.3.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/merged_training_data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
@@ -18,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification_data/big_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
     </list>
@@ -79,11 +77,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks" />
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/project" />
     </key>
   </component>
   <component name="RunManager">
@@ -143,15 +141,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="16070000" />
-    </task>
-    <task id="LOCAL-00117" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741612162736</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1741612162737</updated>
+      <workItem from="1742219910885" duration="19867000" />
     </task>
     <task id="LOCAL-00118" summary="Lab4 assignment progress">
       <option name="closed" value="true" />
@@ -537,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742464291896</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Chapter 8 files">
+      <option name="closed" value="true" />
+      <created>1742469769834</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1742469769834</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
