@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Chapter 8 files">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Chapter 6 files">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_1.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_1.3.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/merged_training_data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
@@ -141,23 +137,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="19867000" />
-    </task>
-    <task id="LOCAL-00118" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741612340073</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1741612340073</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741612985799</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1741612985799</updated>
+      <workItem from="1742219910885" duration="21522000" />
     </task>
     <task id="LOCAL-00120" summary="Lab4 assignment progress">
       <option name="closed" value="true" />
@@ -535,7 +515,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742469769834</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="Chapter 6 files">
+      <option name="closed" value="true" />
+      <created>1742473408275</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1742473408275</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Chapter 6 files">
+      <option name="closed" value="true" />
+      <created>1742474888947</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1742474888947</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +539,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Exercise 1c finished, just have to ask if that's all they want from it" />
     <MESSAGE value="Exercise 1c half finished, just have to ask if that's all they want from it" />
     <MESSAGE value="I think I got 1c" />
     <MESSAGE value="Sentence splitting &amp; tokenization + pos tagging using spaCy" />
@@ -568,7 +563,8 @@
     <MESSAGE value="Lab6 files" />
     <MESSAGE value="project files" />
     <MESSAGE value="Chapter 8 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 8 files" />
+    <MESSAGE value="Chapter 6 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
