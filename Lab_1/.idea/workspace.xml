@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Chapter 6 files">
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/merged_training_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification_data/big_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Figure_1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Figure_2.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Figure_2.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Figure_2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Table_1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Table_1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Table_2.1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +72,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification" />
     </key>
   </component>
   <component name="RunManager">
@@ -567,6 +566,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+    <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1742561284817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+    <SUITE FILE_PATH="coverage/Lab_1$VADER_with_SpaCy.coverage" NAME="VADER_with_SpaCy Coverage Results" MODIFIED="1742562142187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/project/vader" />
   </component>
 </project>
