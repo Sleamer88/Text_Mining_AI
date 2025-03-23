@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="Chapter 6 files">
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_4.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_4.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_5.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_5.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Figure_5.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Table_6.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Table_6.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images/Table_6.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/merged_training_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.expElogbeta.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.id2word" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Lab_6/model.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/big_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification_data/big_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/recognition_data.csv" beforeDir="false" />
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="extra info files">
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Figure_5.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images/Table_5.1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +66,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_6_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_8_images" />
       <recent name="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data" />
-      <recent name="$PROJECT_DIR$/../Lab_Assignments/project/topic_classification" />
     </key>
   </component>
   <component name="RunManager">
@@ -147,23 +130,7 @@
       <workItem from="1740482897728" duration="25061000" />
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
-      <workItem from="1742219910885" duration="28570000" />
-    </task>
-    <task id="LOCAL-00122" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741615346280</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1741615346280</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741617515234</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1741617515234</updated>
+      <workItem from="1742219910885" duration="29400000" />
     </task>
     <task id="LOCAL-00124" summary="Lab4 assignment progress">
       <option name="closed" value="true" />
@@ -541,7 +508,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742481433919</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Chapter 6 files">
+      <option name="closed" value="true" />
+      <created>1742484603286</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1742484603286</updated>
+    </task>
+    <task id="LOCAL-00172" summary="extra info files">
+      <option name="closed" value="true" />
+      <created>1742669237131</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1742669237131</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +532,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Exercise 1c half finished, just have to ask if that's all they want from it" />
     <MESSAGE value="I think I got 1c" />
     <MESSAGE value="Sentence splitting &amp; tokenization + pos tagging using spaCy" />
     <MESSAGE value="constituency parsing using spaCy" />
@@ -574,9 +556,11 @@
     <MESSAGE value="project files" />
     <MESSAGE value="Chapter 8 files" />
     <MESSAGE value="Chapter 6 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 files" />
+    <MESSAGE value="extra info files" />
+    <option name="LAST_COMMIT_MESSAGE" value="extra info files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1741535512518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+    <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1742561284817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
+    <SUITE FILE_PATH="coverage/Lab_1$VADER_with_SpaCy.coverage" NAME="VADER_with_SpaCy Coverage Results" MODIFIED="1742562142187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/project/vader" />
   </component>
 </project>
