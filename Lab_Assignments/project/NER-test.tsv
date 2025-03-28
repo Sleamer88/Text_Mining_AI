@@ -30,7 +30,7 @@ sentence_id	token_id	token	BIO_NER_tag
 1	9	to	O
 1	10	enjoy	O
 1	11	a	O
-1	12	warm		O
+1	12	warm	O
 1	13	weather	O
 1	14	.	O
 2	0	The	O
