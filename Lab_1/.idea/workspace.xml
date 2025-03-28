@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="extra info files">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="project files, ready to run BERT">
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_dev_bert_510_3_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_train_bert_510_3_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/runs/Mar26_18-07-12_Robertos-MBP/events.out.tfevents.1743008832.Robertos-MBP.25435.0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/Text_Mining_notebooks/Chapter_7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,46 +134,9 @@
       <workItem from="1740736013767" duration="61827000" />
       <workItem from="1742146285859" duration="3183000" />
       <workItem from="1742219910885" duration="29400000" />
-    </task>
-    <task id="LOCAL-00125" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741619409261</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1741619409262</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741623069340</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1741623069340</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741627621951</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1741627621952</updated>
-    </task>
-    <task id="LOCAL-00128" summary="Lab4 assignment progress">
-      <option name="closed" value="true" />
-      <created>1741627635242</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1741627635242</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Lab5 files (not graded)">
-      <option name="closed" value="true" />
-      <created>1741627770808</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1741627770808</updated>
+      <workItem from="1743004455358" duration="8028000" />
+      <workItem from="1743064756984" duration="5766000" />
+      <workItem from="1743089836123" duration="2054000" />
     </task>
     <task id="LOCAL-00130" summary="Lab5 files (not graded)">
       <option name="closed" value="true" />
@@ -523,7 +490,47 @@
       <option name="project" value="LOCAL" />
       <updated>1742669483107</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="extra info files">
+      <option name="closed" value="true" />
+      <created>1742736583582</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1742736583582</updated>
+    </task>
+    <task id="LOCAL-00175" summary="extra info files">
+      <option name="closed" value="true" />
+      <created>1742804924338</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1742804924338</updated>
+    </task>
+    <task id="LOCAL-00176" summary="extra info files">
+      <option name="closed" value="true" />
+      <created>1742899576939</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1742899576939</updated>
+    </task>
+    <task id="LOCAL-00177" summary="project files, ready to run BERT">
+      <option name="closed" value="true" />
+      <created>1743007653031</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1743007653031</updated>
+    </task>
+    <task id="LOCAL-00178" summary="project files, ready to run BERT">
+      <option name="closed" value="true" />
+      <created>1743007771088</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1743007771088</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +538,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="I think I got 1c" />
     <MESSAGE value="Sentence splitting &amp; tokenization + pos tagging using spaCy" />
     <MESSAGE value="constituency parsing using spaCy" />
     <MESSAGE value="named entity recognition using spaCy" />
@@ -556,7 +562,8 @@
     <MESSAGE value="Chapter 8 files" />
     <MESSAGE value="Chapter 6 files" />
     <MESSAGE value="extra info files" />
-    <option name="LAST_COMMIT_MESSAGE" value="extra info files" />
+    <MESSAGE value="project files, ready to run BERT" />
+    <option name="LAST_COMMIT_MESSAGE" value="project files, ready to run BERT" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1742561284817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
