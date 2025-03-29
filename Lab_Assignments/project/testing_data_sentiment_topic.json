@@ -1,0 +1,92 @@
+{
+  "0": {
+    "sentence": "The atmosphere at the stadium tonight was electric.",
+    "sentiment": "positive",
+    "topic": "sports"
+  },
+  "1": {
+    "sentence": "The game was so intense I forgot to breathe at times. What a win!",
+    "sentiment": "positive",
+    "topic": "sports"
+  },
+  "2": {
+    "sentence": "It had me hooked from the first chapter.",
+    "sentiment": "positive",
+    "topic": "book"
+  },
+  "3": {
+    "sentence": "It's more of a slow burn than a page-turner, but it's well-written, I guess.",
+    "sentiment": "neutral",
+    "topic": "book"
+  },
+  "4": {
+    "sentence": "It's split into two timelines, which keeps it interesting but also a bit confusing at times.",
+    "sentiment": "neutral",
+    "topic": "book"
+  },
+  "5": {
+    "sentence": "I could watch this film a hundred times and still find something new to love about it.",
+    "sentiment": "positive",
+    "topic": "movie"
+  },
+  "6": {
+    "sentence": "Best thriller I've seen in ages. Had me on the edge of my seat the entire time.",
+    "sentiment": "positive",
+    "topic": "movie"
+  },
+  "7": {
+    "sentence": "How do you concede three goals in ten minutes? The whole defence needs replacing.",
+    "sentiment": "negative",
+    "topic": "sports"
+  },
+  "8": {
+    "sentence": "They rotated their squad for the cup game, which wasn't surprising given the schedule.",
+    "sentiment": "neutral",
+    "topic": "sports"
+  },
+  "9": {
+    "sentence": "The trailer gave away most of the plot, but there were still a few surprises.",
+    "sentiment": "neutral",
+    "topic": "movie"
+  },
+  "10": {
+    "sentence": "The protagonist was so whiny I wanted to throw the book across the room.",
+    "sentiment": "negative",
+    "topic": "book"
+  },
+  "11": {
+    "sentence": "The author's writing style is so unique - poetic, but not over the top.",
+    "sentiment": "positive",
+    "topic": "book"
+  },
+  "12": {
+    "sentence": "I don't get how was it supposed to work without any chemistry between the leads.",
+    "sentiment": "negative",
+    "topic": "movie"
+  },
+  "13": {
+    "sentence": "It's still 0-0 so far, so way too early to tell - both teams trying their hardest, but maybe it won't be enough?",
+    "sentiment": "neutral",
+    "topic": "sports"
+  },
+  "14": {
+    "sentence": "I don't get the appeal at all, it's just a couple guys kicking a ball around at the end of the day.",
+    "sentiment": "negative",
+    "topic": "sports"
+  },
+  "15": {
+    "sentence": "Did you hear the screenplay for it was originally written on a napkin?",
+    "sentiment": "neutral",
+    "topic": "movie"
+  },
+  "16": {
+    "sentence": "It's really incredibly impressive to mess up such a tested blockbuster formula.",
+    "sentiment": "negative",
+    "topic": "movie"
+  },
+  "17": {
+    "sentence": "The only way it's helped me is by keeping my table from being wobbly.",
+    "sentiment": "negative",
+    "topic": "book"
+  }
+}
