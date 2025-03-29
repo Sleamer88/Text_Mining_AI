@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="project files">
+    <list default="true" id="2b0671ae-e5e4-458c-ae6f-cf7f49a27b28" name="Changes" comment="project files, VADER needs improvement">
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/.idea/Labs.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_dev_bert_256_3_2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_dev_bert_510_3_2" afterDir="false" />
@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/runs/Mar27_16-53-50_Robertos-MBP/events.out.tfevents.1743090830.Robertos-MBP.79064.0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/testing_data_sentiment_topic.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.ipynb" afterDir="false" />
     </list>
@@ -150,23 +149,7 @@
       <workItem from="1743244526020" duration="3788000" />
       <workItem from="1743248328365" duration="6406000" />
       <workItem from="1743255002259" duration="2803000" />
-      <workItem from="1743265250435" duration="2064000" />
-    </task>
-    <task id="LOCAL-00141" summary="Lab6 files">
-      <option name="closed" value="true" />
-      <created>1742040664370</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1742040664371</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Lab6 files">
-      <option name="closed" value="true" />
-      <created>1742052008918</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1742052008918</updated>
+      <workItem from="1743265250435" duration="3903000" />
     </task>
     <task id="LOCAL-00143" summary="Lab6 files">
       <option name="closed" value="true" />
@@ -544,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743265202812</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="project files">
+      <option name="closed" value="true" />
+      <created>1743267612057</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1743267612057</updated>
+    </task>
+    <task id="LOCAL-00191" summary="project files, VADER needs improvement">
+      <option name="closed" value="true" />
+      <created>1743267725563</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1743267725563</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="named entity recognition using spaCy" />
     <MESSAGE value="Starting written questions" />
     <MESSAGE value="." />
     <MESSAGE value="Answering written part of assignment" />
@@ -577,7 +575,8 @@
     <MESSAGE value="project files, BERT finally ran a bit, okay performance but no time to run it again, will have to explain what was done and why" />
     <MESSAGE value="project files, NERC is finished, unless we want different features but that is quick to do" />
     <MESSAGE value="project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="project files" />
+    <MESSAGE value="project files, VADER needs improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="project files, VADER needs improvement" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$eli5_patch.coverage" NAME="eli5_patch Coverage Results" MODIFIED="1742561284817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_Assignments/Lab_4" />
