@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_dev_bert_510_3_2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_train_bert_256_3_2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/cache_dir/cached_train_bert_510_3_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/project_notebook.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/runs/Mar26_18-07-12_Robertos-MBP/events.out.tfevents.1743008832.Robertos-MBP.25435.0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/runs/Mar27_16-53-50_Robertos-MBP/events.out.tfevents.1743090830.Robertos-MBP.79064.0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab_Assignments/project/sentiment_analysis_data/training_data_1.json" afterDir="false" />
@@ -151,15 +152,9 @@
       <workItem from="1743255002259" duration="2803000" />
       <workItem from="1743265250435" duration="32893000" />
       <workItem from="1743351558550" duration="1391000" />
-      <workItem from="1743352961746" duration="3414000" />
-    </task>
-    <task id="LOCAL-00145" summary="Lab6 files">
-      <option name="closed" value="true" />
-      <created>1742146733999</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1742146733999</updated>
+      <workItem from="1743352961746" duration="3752000" />
+      <workItem from="1743357124152" duration="40000" />
+      <workItem from="1743357667777" duration="1225000" />
     </task>
     <task id="LOCAL-00146" summary="Lab6 files">
       <option name="closed" value="true" />
@@ -545,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743269936180</updated>
     </task>
-    <option name="localTasksCounter" value="194" />
+    <task id="LOCAL-00194" summary="project files">
+      <option name="closed" value="true" />
+      <created>1743356898775</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1743356898775</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
